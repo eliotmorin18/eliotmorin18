@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eliotmorin18">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/eliot-morin-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:eliot.morin@telecom-sudparis.eu">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
