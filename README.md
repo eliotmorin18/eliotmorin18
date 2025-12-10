@@ -1,5 +1,3 @@
-# Eliot-Morin
-
 <h1 align="center">Hi, I'm Eliot Morin</h1>
 
 <p align="center">
@@ -40,7 +38,6 @@ I am currently seeking a **6-month internship** to build practical ML/DL systems
 AI-augmented application for French expatriates featuring a country-specific chatbot, verified accounts, and unified administrative flows.  
 Selected among **200 projects**, developed in collaboration with the **Sri Lankan Consulate** to reduce embassy workload.  
 
-
 ---
 
 ### 🔹 UAV Hawk–Pigeon Swarm Defense — *Imitation Learning*
@@ -49,7 +46,8 @@ Simulation of bio-inspired attack/defense behaviors (falcons vs pigeons) with an
 
 ### 🔹 Automatic Pose Recognition — *Deep Learning (CNN)*
 End-to-end computer vision pipeline for human pose estimation, including augmentation, training, evaluation, and visualization.  
-➡️ **Repo:** https://github.com/eliotmorin18/Automatic_Pose_Recognition
+➡️ **Repo:** https://github.com/eliotmorin18/Automatic_Pose_Recognition  
+
 ---
 
 ### 🔹 Music Generation — *LSTM & Transformers*
@@ -90,4 +88,4 @@ Tennis, Football, Golf, Skiing
 
 ## 📫 Contact
 - **Email:** eliot.morin@telecom-sudparis.eu  
-- **GitHub:** github.com/eliotmorin18  
+- **GitHub:** github.com/eliotmorin18
